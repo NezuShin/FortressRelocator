@@ -4,7 +4,7 @@ Nether fortresses are a hardcoded structure. World-generation datapack can't cha
 
 This Folia plugin adds `y-offset` to new fortresses. The biome check and the nether-brick pieces both move by that amount. Chunks that already contain a fortress stay where they are.
 
-Target server: Folia 1.21.11. Java 21.
+Target server: Folia 26.3. Java 25.
 
 ## Config
 

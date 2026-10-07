@@ -1,6 +1,6 @@
 name: FortressRelocator
 version: '${version}'
 main: su.nezushin.fr.FortressRelocator
-api-version: '1.21'
+api-version: '26.3'
 folia-supported: true
 load: STARTUP
